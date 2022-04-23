@@ -2,7 +2,7 @@
 
 body {
 
-  background-image: url('/img/Background.png');
+  background-image: url('img/Background.png');
   border-image: url('img/Border.png');
   padding: 0 0 50px;
   min-height: 300px;
