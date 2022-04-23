@@ -3,6 +3,8 @@
 body {
 
   background-image: url('img/Background.png');
+  background-repeat: no-repeat;
+  background-position: center;
   padding: 0 0 50px;
   min-height: 300px;
   border: 1px solid;
